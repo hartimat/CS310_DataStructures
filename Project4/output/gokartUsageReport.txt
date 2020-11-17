@@ -1,0 +1,23 @@
+GO-KART USAGE REPORT
+John Doe is using go-kart number 1
+Bill Buckner is using go-kart number 2
+Guy Fieri is using go-kart number 3
+Joe Biden is using go-kart number 4
+Bruce Lee is using go-kart number 5
+John Wayne is using go-kart number 6
+Al Roker is using go-kart number 7
+
+AVAILABLE GO-KARTS
+   BASIC GO-KARTS
+      No basic go-karts are available
+
+   RACING GO-KARTS
+      No racing go-karts are available
+
+TOP BROKER QUEUE
+Ben Franklin is waiting
+
+STANDARD BROKER QUEUE
+Jackie Chan is waiting
+Chris Rock is waiting
+

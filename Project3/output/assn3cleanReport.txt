@@ -1,0 +1,20 @@
+ABC12345  Harrison,  George
+
+        DGLB       124.44       1022       false
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager ABC12345: $ 127177.68
+
+PQR98765  Lennon,  John
+
+        FAB       100.0       100       true
+
+        FOUR       44.01       44       true
+
+        BEAT       123.23       123       true
+
+   Number of StockTrade listings for FundManager: 3
+   Total sales value of StockTrade listings for FundManager PQR98765: $ 27093.73
+
+Total Number of StockTrade listings for ALL FundManagers = 4
+Total sales value of StockTrade listings for ALL FundManagers = $ 154271.41

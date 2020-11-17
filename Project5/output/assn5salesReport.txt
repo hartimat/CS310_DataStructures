@@ -1,0 +1,9 @@
+FundManager AAA11111, Bruce Lee
+      Stocktrade ABCD is TAXABLE
+FundManager BBB22222, John Wayne
+FundManager CCC33333, Al Roker
+      Stocktrade IJKL is TAXABLE
+FundManager DDD44444, Bill Buckner
+      Stocktrade MNOP is NOT TAXABLE
+FundManager EEE55555, Ben Franklin
+      Stocktrade CCDD is TAXABLE

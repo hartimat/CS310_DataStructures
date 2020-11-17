@@ -1,0 +1,121 @@
+AAA12345  Lee,  Bruce
+
+        AAA       100000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager AAA12345: $ 2500000000.00
+
+BBB12345  Wayne,  John
+
+        BBB       100000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager BBB12345: $ 2500000000.00
+
+CCC12345  Roker,  Al
+
+        CCC       100000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager CCC12345: $ 2500000000.00
+
+DDD12345  Buckner,  Bill
+
+        DDD       1000000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager DDD12345: $ 25000000000.00
+
+EEE12345  Franklin,  Ben
+
+        EEE       1000000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager EEE12345: $ 25000000000.00
+
+FFF12345  Li,  Jet
+
+        FFF       1000000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager FFF12345: $ 25000000000.00
+
+GGG12345  Obama,  Barack
+
+        GGG       1000000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager GGG12345: $ 25000000000.00
+
+HHH12345  Mathers,  Marshall
+
+        HHH       1000000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager HHH12345: $ 25000000000.00
+
+III12345  Obama,  Michelle
+
+        III       100000.0       25000       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager III12345: $ 2500000000.00
+
+JJJ12345  Doe,  John
+
+        JJJ       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager JJJ12345: $ 2500.00
+
+LLL12345  Doe,  Jane
+
+        LLL       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager LLL12345: $ 2500.00
+
+MMM12345  Fieri,  Guy
+
+        MMM       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager MMM12345: $ 2500.00
+
+NNN12345  Biden,  Joe
+
+        NNN       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager NNN12345: $ 2500.00
+
+OOO12345  Chan,  Jackie
+
+        OOO       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager OOO12345: $ 2500.00
+
+PPP12345  Rock,  Chris
+
+        PPP       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager PPP12345: $ 2500.00
+
+QQQ12345  Cutler,  Jay
+
+        QQQ       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager QQQ12345: $ 2500.00
+
+RRR12345  Schembeckler,  Bo
+
+        RRR       100.0       25       true
+
+   Number of StockTrade listings for FundManager: 1
+   Total sales value of StockTrade listings for FundManager RRR12345: $ 2500.00
+
+Total Number of StockTrade listings for ALL FundManagers = 17
+Total sales value of StockTrade listings for ALL FundManagers = $ 135000020000.00

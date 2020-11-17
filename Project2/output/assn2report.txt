@@ -1,0 +1,7 @@
+BAA12345  Mouse,  Minnie
+
+   Number of StockTrade listings for FundManager: 0
+   Total sales value of StockTrade listings for FundManager BAA12345: $ 0.00
+
+Total Number of StockTrade listings for ALL FundManagers = 0
+Total sales value of StockTrade listings for ALL FundManagers = $ 0.00
